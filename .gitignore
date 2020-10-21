@@ -107,4 +107,4 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-rest-client/node_modules
+rest-client/node_modules/
