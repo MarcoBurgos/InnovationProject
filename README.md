@@ -1,4 +1,4 @@
-# rest-client
+# Rest-client Front end
 
 ## Project setup
 ```
@@ -19,6 +19,12 @@ npm run build
 ```
 npm run lint
 ```
+
+# Rest-API Back end
+```
+docker-compose up
+```
+
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
